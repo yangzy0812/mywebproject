@@ -247,4 +247,24 @@ $main-color: #b38c52;
     margin-right:8px;
     color:#fff;
   }
+  .container{
+   width: 100%;
+   margin:auto;
+   text-align:center;
+  }
+  iframe{
+   height:300px;
+    right: : 50%;
+    margin-left: -100050px;
+    position:absolute;
+    
+  }
+  .py-5{
+   margin:auto;
+   width:500px;
+   height:544px;
+   text-align:center;
+   margin:0 auto;
+  }
+
 }

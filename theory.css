@@ -1,5 +1,32 @@
-<style>
-.aligncenter {
-    image-align: center;
+* {
+        margin: 0;
+        padding: 0;
+                     
 }
-</style>
+
+
+
+.containerTop{
+     width: 100%;
+     margin: 0 auto;
+     margin-top: 62px;
+     text-align:center;
+}
+.py-5{
+        padding-top: 0rem !important;
+}
+
+textarea {
+        width: 500px;
+        height: 150px;
+}
+
+body{
+	text-align:center;
+} 
+
+section{
+
+	text-align:center;
+	margin:0 auto;
+}
